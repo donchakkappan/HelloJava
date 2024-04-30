@@ -1,1 +1,1 @@
-Readme file updates to demonstrate automatic jenkins job on commit
+Sample commit to demonstrate automatic jenkins pipeline job on commit. I just used GitHub web-hooks.
